@@ -1,7 +1,9 @@
-h1{
+.header {
   background: #56addf;
-  margin: 0px 0px;
-  padding: 4px 200px;
-  font-size: 46px;
-  
+}
+
+.header > div {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem;
 }
